@@ -1,1 +1,3 @@
 this is the first homework task 1.1 repository setup
+version number 3
+release notes are.....
